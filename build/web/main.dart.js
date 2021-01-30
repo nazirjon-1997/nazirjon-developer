@@ -12968,8 +12968,7 @@ ee:function ee(a,b){this.a=a
 this.b=b},
 x3:function x3(a){this.a=a},
 vi:function vi(a){this.a=a},
-o5:function o5(a,b){this.c=a
-this.a=b},
+o5:function o5(a){this.a=a},
 qv:function qv(a){var _=this
 _.d=0
 _.a=null
@@ -42860,13 +42859,15 @@ N.SH.prototype={
 $1:function(a){return!0},
 $S:32}
 F.vi.prototype={
-K:function(a,b){return new S.nT(new F.o5("Flutter Demo Home Page",null),"Flutter Demo",X.Yy(null,C.lJ),null)}}
+K:function(a,b){return new S.nT(new F.o5(null),"nazirjon developer",X.Yy(null,C.lJ),null)}}
 F.o5.prototype={
 aI:function(){return new F.qv(C.l)}}
 F.qv.prototype={
 GZ:function(){this.aH(new F.QK(this))},
-K:function(a,b){var s=null,r=L.O0(this.a.c,s)
-return new M.oS(new E.mw(r,new P.Z(1/0,56),s),T.EK(T.a2d(H.d([L.O0("You have pushed the button this many times:",s),L.O0(""+this.d,K.bf(b).Y.d)],t.fQ),C.oB),s,s),E.Xc(L.Xo(C.ud),!1,this.gGY(),"Increment"),s)}}
+K:function(a,b){var s,r=null
+this.a.toString
+s=L.O0(r,r)
+return new M.oS(new E.mw(s,new P.Z(1/0,56),r),T.EK(T.a2d(H.d([L.O0("You have pushed the button this many times:",r),L.O0(""+this.d,K.bf(b).Y.d)],t.fQ),C.oB),r,r),E.Xc(L.Xo(C.ud),!1,this.gGY(),"Increment"),r)}}
 F.QK.prototype={
 $0:function(){++this.a.d},
 $S:3}
